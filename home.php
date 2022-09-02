@@ -306,14 +306,14 @@ Start Call To Action
 				<article class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="400ms">
 					<div class="service-block text-center">
 						<div class="service-icon text-center">
-						<img src="theme/images/rent.png" alt="" height="45px">
+							<img src="theme/images/rent.png" alt="" height="45px">
 						</div>
 						<h3>CAR CONSULTATION</h3>
-							<li>Rolls-Royce Phantom</li>
-							<li> Mercedes-Benz GLA</li>
-							<li>Rolls-Royce Ghost</li>
-							<li>Volvo XC90</li>
-							<li>BMW X5</li>
+						<li><a href="img&pdf/rolls-royce-phantom-II_1652427994777_1652428711875.jpg"> Rolls-Royce Phantom</a></li>
+						<li><a href="img&pdf/Mercedes-Benz GLA.jpg"> Mercedes-Benz GLA</a></li>
+						<li><a href="img&pdf/Rolls-Royce Ghost.jpg"> Rolls-Royce Ghost</a></li>
+						<li><a href="img&pdf/Volvo XC90.png"> Volvo XC90</a></li>
+						<li><a href="img&pdf/BMW x5.jpg"> BMW X5</a></li>
 					</div>
 				</article>
 				<!-- End Single Service Item -->
@@ -322,24 +322,28 @@ Start Call To Action
 				<article class="col-lg-4 col-md-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="400ms">
 					<div class="service-block text-center">
 						<div class="service-icon text-center">
-							<img src="theme/images/sell.png" alt=""height="65px">
+							<img src="theme/images/sell.png" alt="" height="65px">
 						</div>
 						<h3>OLD CAR BUY &amp; SALE</h3>
 						<li style="padding:2px; margin-right:4px; list-style-type:none; ">
-						<i class="fa-solid fa-car"></i>  Renault KWID  &nbsp; &nbsp;
-						<i class="fa-solid fa-car"></i> Honda City</li>
-						
-						<li style="padding:2px; margin-right:4px; list-style-type:none; ">
-						<i class="fa-solid fa-car"></i>  Maruti Wagon R  &nbsp; 
-						<i class="fa-solid fa-car"></i> Hyundai Grand i10</li>
+							<i class="fa-solid fa-car"></i> Renault KWID &nbsp; &nbsp;
+							<i class="fa-solid fa-car"></i> Honda City
+						</li>
 
 						<li style="padding:2px; margin-right:4px; list-style-type:none; ">
-						<i class="fa-solid fa-car"></i>  Hyundai i20  &nbsp; &nbsp;
-						<i class="fa-solid fa-car"></i> Maruti Ciaz</li>
+							<i class="fa-solid fa-car"></i> Maruti Wagon R &nbsp;
+							<i class="fa-solid fa-car"></i> Hyundai Grand i10
+						</li>
 
 						<li style="padding:2px; margin-right:4px; list-style-type:none; ">
-						<i class="fa-solid fa-car"></i>  MG Hector  &nbsp; &nbsp;
-						<i class="fa-solid fa-car"></i> Mahindra Marazzo</li>
+							<i class="fa-solid fa-car"></i> Hyundai i20 &nbsp; &nbsp;
+							<i class="fa-solid fa-car"></i> Maruti Ciaz
+						</li>
+
+						<li style="padding:2px; margin-right:4px; list-style-type:none; ">
+							<i class="fa-solid fa-car"></i> MG Hector &nbsp; &nbsp;
+							<i class="fa-solid fa-car"></i> Mahindra Marazzo
+						</li>
 					</div>
 				</article>
 				<!-- End Single Service Item -->
@@ -350,10 +354,10 @@ Start Call To Action
 							<img src="theme/images/INSURANCE.png" alt="" height="50px">
 						</div>
 						<h3>GENRAL INSURANCE</h3>
-						<li style="padding:2px; margin-right:4px; list-style-type:none; ">AUTO</li> 
-						<li style="padding:2px; margin-right:4px; list-style-type:none; ">HELTH</li> 
-						<li style="padding:2px; margin-right:4px; list-style-type:none; ">FIRE</li> 
-						<li style="padding:2px; margin-right:4px; list-style-type:none; ">MARING</li>
+						<li style="padding:2px; margin-right:4px; list-style-type:none; "><a href="img&pdf/motor_claim_form.pdf"> AUTO</a></li>
+						<li style="padding:2px; margin-right:4px; list-style-type:none; "><a href="img&pdf/HELTH-SBI-Sampoorn Suraksha_Master Proposal Form_NEE _22422.pdf">HELTH </a> </li>
+						<li style="padding:2px; margin-right:4px; list-style-type:none; "><a href="img&pdf/FIRE.pdf"> FIRE</a></li>
+						<li style="padding:2px; margin-right:4px; list-style-type:none; "><a href="img&pdf/Marine-claim-form.pdf"> MARING</a></li>
 					</div>
 				</article>
 				<!-- End Single Service Item -->
@@ -1147,7 +1151,7 @@ Start Our Team
 					<div class="contact-details">
 						<div class="con-info clearfix">
 							<i class="tf-map-pin"></i>
-							<span>Khaja Road, Bayzid, Chittagong, Bangladesh</span>
+							<span>Kalanala, Bhavnagar</span>
 						</div>
 
 						<div class="con-info clearfix">
