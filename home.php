@@ -14,7 +14,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Meghna | Responsive Multipurpose Parallax HTML5 Template</title>
+	<title>SHUBHAM AUTO CONSULTANCY</title>
 
 	<!-- Mobile Specific Metas
   ================================================== -->
@@ -81,16 +81,16 @@ Welcome Slider
 			</div>
 			<h1>SHUBHAM AUTO CONSULTANCY</h1>
 			<h2>
-				<li><b> CAR CONSULTATION</li>
+				<li class="list-unstyled"><b> CAR CONSULTATION</li>
 			</h2>
 			<h2>
-				<li><b>OLD CAR BUY AND SALE</li>
+				<li class="list-unstyled"><b>OLD CAR BUY AND SALE</li>
 			</h2>
 			<h2>
-				<li><b>GENRAL INSURANCE</li>
+				<li class="list-unstyled"><b>GENRAL INSURANCE</li>
 			</h2>
 			<h2>
-				<li><b>LOANS</li>
+				<li class="list-unstyled"><b>LOANS</li>
 			</h2>
 
 
@@ -309,6 +309,7 @@ Start Call To Action
 							<img src="theme/images/rent.png" alt="" height="45px">
 						</div>
 						<h3>CAR CONSULTATION</h3>
+						
 						<li><a href="img&pdf/rolls-royce-phantom-II_1652427994777_1652428711875.jpg"> Rolls-Royce Phantom</a></li>
 						<li><a href="img&pdf/Mercedes-Benz GLA.jpg"> Mercedes-Benz GLA</a></li>
 						<li><a href="img&pdf/Rolls-Royce Ghost.jpg"> Rolls-Royce Ghost</a></li>
